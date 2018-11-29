@@ -358,7 +358,7 @@
           <ModuleController guiclass="ModuleControllerGui" testclass="ModuleController" testname="Module Controller" enabled="true">
             <collectionProp name="ModuleController.node_path">
               <stringProp name="764597751">Test Plan</stringProp>
-              <stringProp name="80579373">Task2</stringProp>
+              <stringProp name="-232665928">GeneratingPostsWithRandomDate</stringProp>
               <stringProp name="170071582">Test Fragment</stringProp>
               <stringProp name="-1591803190">Simple Controller</stringProp>
             </collectionProp>
